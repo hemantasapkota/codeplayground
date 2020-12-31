@@ -1,7 +1,7 @@
-Go Playground Privacy Policy
+Code Playground Privacy Policy
 
-This Privacy Policy was last modified on October 9, 2017.
-Hemanta Sapkota ("us", "we", or "our") operates https://github.com/hemantasapkota/goplayground (the "App"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App.
+This Privacy Policy was last modified on December 31, 2020.
+Hemanta Sapkota ("us", "we", or "our") operates https://github.com/hemantasapkota/codeplayground (the "App"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the App.
 
 Information Collection And Use
 While using our App, we will NOT ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number ("Personal Information").
@@ -21,7 +21,7 @@ Our Site may contain links to other sites that are not operated by us. If you cl
 Games Studio has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
 Changes To This Privacy Policy
-Games Studio may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
+Hemanta may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
 Contact Us
 If you have any questions about this Privacy Policy, please contact us.
